@@ -8,7 +8,7 @@ var states = Object.freeze({
 
 var currentstate;
 
-var gravity = 0.01;
+var gravity = 0.09;
 var velocity = 1;
 var position = 180;
 var rotation = 0;
